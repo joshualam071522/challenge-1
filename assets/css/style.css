@@ -20,10 +20,6 @@ h1 {
     font-size: 48px;
 }
 
-.seo {
-    color: #d9dcd6;
-}
-
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -48,6 +44,22 @@ a {
 
 p {
     font-size: 16px;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+footer h2 {
+    font-size: 20px;
+}
+
+
+.seo {
+    color: #d9dcd6;
 }
 
 .hero {
@@ -119,15 +131,4 @@ p {
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-footer h2 {
-    font-size: 20px;
 }
